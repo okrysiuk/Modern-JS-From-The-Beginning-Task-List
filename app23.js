@@ -11,7 +11,7 @@ document.getElementById('task-title').style.padding = '5px';
 
 //Change content
 
-document.getElementById('task-title').textContent = 'Tasssk list';
+//document.getElementById('task-title').textContent = 'Tasssk list';
 document.getElementById('task-title').innerText = 'My Tasks';
 document.getElementById('task-title').innerHTML = '<span style="color:red">Task list</span>';
 
